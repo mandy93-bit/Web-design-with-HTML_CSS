@@ -1,0 +1,15 @@
+/* Css properties */
+
+.img{
+    background-color: rebeccapurple;
+    height: 600px;
+    background-image:url(/imgForWebDev/farrinni-bsLL9zXvv3k-unsplash.jpg);
+    background-size:cover ;
+}
+
+.img2{
+    height: 600px;
+background-image: url(/imgForWebDev/divya-agrawal-cYLwcTeXAQ8-unsplash.jpg);
+background-size: cover;
+background-attachment: fixed;
+}

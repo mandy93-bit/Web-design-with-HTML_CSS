@@ -1,0 +1,20 @@
+h1{
+    color: rgb(143, 74, 74);
+}
+/* RGB colour coding system:Red Green BLue */
+
+p{
+    color: rgb(red, green, blue);
+}
+
+/* hexadecimal coding system */
+#con1{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(205, 0, 92);
+}
+
+/* hsl colour code: Hue saturation light */
+#con2 h1{
+ color: hsl(124, 100%, 50%);
+}

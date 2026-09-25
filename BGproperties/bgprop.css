@@ -1,0 +1,11 @@
+/* Background properties */
+
+.img1{
+ background-color: rgb(9, 17, 41);
+ height: 600px;
+ background-image: url(/imgForWebDev/farrinni-bsLL9zXvv3k-unsplash.jpg); 
+ background-size: cover;
+ background-attachment: fixed;
+
+   
+}
